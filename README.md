@@ -1,4 +1,4 @@
 # shineshirts-black
-This is my the project for my clothing business.
+This is my tlhe project for my clothing business.
 <br>
-Author - Vishnukant Prajapati
+Author - Kavin Live Ind
